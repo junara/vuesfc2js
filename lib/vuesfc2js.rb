@@ -1,6 +1,7 @@
 # frozen_string_literal: true
 
 require "fileutils"
+require "pathname"
 require_relative "vuesfc2js/version"
 require_relative "vuesfc2js/error/not_exist_error"
 require_relative "vuesfc2js/error/not_implemented_error"
