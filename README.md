@@ -1,3 +1,4 @@
+[![codecov](https://codecov.io/gh/junara/vuesfc2js/branch/main/graph/badge.svg?token=z7VVljt2RR)](https://codecov.io/gh/junara/vuesfc2js)
 
 # Vuesfc2js
 
